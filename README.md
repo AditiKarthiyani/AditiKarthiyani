@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Aditi
-- 👀 I’m interested in Cybersecurity and wish to pursue a carer in this field 
-- 🌱 I’m currently studying Computer Science 
+- 👋 Hi, I’m Aditi 
+- 🌱 I’m currently pursuing a degree in Computer Science at Nottingham University.
+- 👀 I’m passionate about Cybersecurity and aim to build a career in this field.
+
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
