@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Aditi 
-- 🌱 I’m currently pursuing a degree in Computer Science at Nottingham University.
-- 👀 I’m passionate about Cybersecurity and aim to build a career in this field.
+# Hi, I'm Aditi 👋
 
-<!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...--->
+- I studied **Computer Science at the University of Nottingham** and pursuing a **master's degree in cyber security engineering at the University of Warwick**.
 
-<!---
-AditiKarthiyani/AditiKarthiyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm particularly interested in **cybersecurity and information security**, and I'm developing my technical knowledge and practical skills with the aim of building a career in the field.
+
+
